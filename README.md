@@ -94,7 +94,7 @@ d)
 
 - Packaging: `mvn package`, compiled jar (toy-robot-spring.jar) in *target/* folder
 
-- Test Client: Postman
+- Test Client: Postman Collection - https://www.getpostman.com/collections/7f2cb74e4211128f98e5
 
 ## Outlook
 Currently the API offers a single end point for controlling the toy robot. Alternatively, it could be separated into 4 end points
